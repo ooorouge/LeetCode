@@ -25,4 +25,3 @@ class Solution:
             res = max(res, i-start+1)                
             d[ch] = i
         return res
-        
