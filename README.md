@@ -1,2 +1,3 @@
 # LeetCode
-some ideas
+
+## 3. Longest Substring Without Repeating Characters
