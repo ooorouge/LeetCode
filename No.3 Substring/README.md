@@ -3,5 +3,7 @@
 * res 
 * start
 * enumerate(s) for s = {'a', 'b', 'c'}
+```
   i, val = enumerate[0]
   0, a
+```
