@@ -42,5 +42,3 @@ class Solution:
         			min_r = min(nums1[i], nums2[j])
 
         		return (max_l + min_r) / 2.0
-
-
