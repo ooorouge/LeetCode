@@ -7,7 +7,7 @@ class Solution:
         """
         if numRows == 1 or numRows >= len(s):
         	return s
-
+        #学一下这种写法
         rows = [''] * numRows
         index, step = 0, 1
 
