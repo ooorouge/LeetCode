@@ -9,3 +9,4 @@
 * [No14.Longest Common Prefix](https://github.com/ooorouge/LeetCode/blob/master/No%2014%20Longest%20Common%20Prefix.md)
 * [No20.Valid Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No%2020%20Valid%20Parentheses.md)
 * [No21.Merge Two Sorted Lists](https://github.com/ooorouge/LeetCode/blob/master/No%2021%20Merge%20Two%20Sorted%20Lists.md)
+* [No26.Remove Duplicates from Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No%2026%20Remove%20Duplicates%20from%20Sorted%20Array.md)
