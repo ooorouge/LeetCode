@@ -13,3 +13,4 @@
 * [No27.Remove Element](https://github.com/ooorouge/LeetCode/blob/master/No%2027%20Remove%20Element.md)
 * [No28.Implement strStr](https://github.com/ooorouge/LeetCode/blob/master/No%2028%20Implement%20strStr.md)
 * [No35.Search Insert Position](https://github.com/ooorouge/LeetCode/blob/master/No%2035%20Search%20Insert%20Position.md)
+* [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
