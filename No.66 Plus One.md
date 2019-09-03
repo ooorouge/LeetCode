@@ -1,5 +1,5 @@
 ### Plus One
-`java
+```java
 class Solution {
     public int[] plusOne(int[] digits) {
        //进位
@@ -22,4 +22,4 @@ class Solution {
         return digits;
     }
 }
-`
+```
