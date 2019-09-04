@@ -18,4 +18,5 @@
 * [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
 * [No67.Add Binary](https://github.com/ooorouge/LeetCode/blob/master/No.67%20Add%20Binary.md)
 * [No69.Sqrt(x)](https://github.com/ooorouge/LeetCode/blob/master/No.69%20Sqrt(x).md)
+* [No99 Merge Sorted Array](No.88 Merge Sorted Array.md)注意其他语言数组的问题
 * [No367.Valid Perfect Square](https://github.com/ooorouge/LeetCode/blob/master/No.367%20Valid%20Perfect%20Square.md)注意二分查找的易错点
