@@ -5,6 +5,15 @@
   * Java boolean默认值为false
   * `dp[i][j]`里的`ij`是指的个数，而`ss[i][j]`里的`ij`实际上是指的索引，索引=当前个数-1
   * 里面有一些`j-2`的索引之所以不会出现错误完全是因为所有的testcase都没有p的第一个char就是*的情况，这样写也不符合re
+  * 有一个可读性比较差，但是把用逻辑符号替代了`if`语句的操作(并且只有赋值只有boolean情况这样用才对)
+  ```java
+  dp[i][j] = dp[i][j-2] || ((s.charAt(i-1) == p.charAt(j-2) || p.charAt(j-2) == '.') && dp[i-1][j]); 
+  ```
+  # 对比
+  ```java
+  if (ss[i-1] == pp[j-2] || pp[j-2] == '.') dp[i][j] = dp[i-1][j] || dp[i][j];
+  ```
+  
 ```java
 class Solution {
     public boolean isMatch(String s, String p) {
