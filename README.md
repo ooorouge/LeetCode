@@ -6,7 +6,7 @@
 * [No6.ZigZag Converision](https://github.com/ooorouge/LeetCode/tree/master/No.6%20ZigZag%20Conversion)
 * [No9.Palindrome Number](https://github.com/ooorouge/LeetCode/blob/master/No%209%20Palindrome%20Number.md)
 * [No.10Regular Expression Match](https://github.com/ooorouge/LeetCode/blob/master/No.10%20Regular%20Expression%20Match.md)涉及到了dp,和一些很重要的思路,HARD ONE
-* [No.11Container With Most Water](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)
+* [No.11Container With Most Water](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)[related a hard one, No42](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)
 * [No13.Roman to Integer](https://github.com/ooorouge/LeetCode/blob/master/No%2013%20Roman%20to%20Integer.md)
 * [No14.Longest Common Prefix](https://github.com/ooorouge/LeetCode/blob/master/No%2014%20Longest%20Common%20Prefix.md)
 * [No20.Valid Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No%2020%20Valid%20Parentheses.md)
@@ -15,6 +15,7 @@
 * [No27.Remove Element](https://github.com/ooorouge/LeetCode/blob/master/No%2027%20Remove%20Element.md)
 * [No28.Implement strStr](https://github.com/ooorouge/LeetCode/blob/master/No%2028%20Implement%20strStr.md)
 * [No35.Search Insert Position](https://github.com/ooorouge/LeetCode/blob/master/No%2035%20Search%20Insert%20Position.md)
+* [No42.Trapping Rain Water](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)HARD [related NO.11](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)
 * [No53.Maximum Subarray](https://github.com/ooorouge/LeetCode/blob/master/No.53%20Maximum%20Subarray.md)
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20last%20word.md)
 * [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
