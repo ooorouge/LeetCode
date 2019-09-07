@@ -9,6 +9,7 @@
 * [No.11Container With Most Water](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)Medium[related a hard one, No42](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)
 * [No13.Roman to Integer](https://github.com/ooorouge/LeetCode/blob/master/No%2013%20Roman%20to%20Integer.md)
 * [No14.Longest Common Prefix](https://github.com/ooorouge/LeetCode/blob/master/No%2014%20Longest%20Common%20Prefix.md)
+* [No15.3Sum](https://github.com/ooorouge/LeetCode/blob/master/No.15%203Sum.md)Medium，但是不谨慎考虑就会多算，漏算结果
 * [No20.Valid Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No%2020%20Valid%20Parentheses.md)
 * [No21.Merge Two Sorted Lists](https://github.com/ooorouge/LeetCode/blob/master/No%2021%20Merge%20Two%20Sorted%20Lists.md)
 * [No26.Remove Duplicates from Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No%2026%20Remove%20Duplicates%20from%20Sorted%20Array.md)
