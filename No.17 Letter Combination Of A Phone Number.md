@@ -1,5 +1,6 @@
 ### No.17 Letter Combination Of A Phone Number
 * 做错的主要原因在不知道LinkedList方法.remove()其实是删除第一个并且返回其值，所以怎么遍历出了问题
+* ![Description](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Telephone-keypad2.svg/200px-Telephone-keypad2.svg.png)
 ```java
 class Solution {
     public List<String> letterCombinations(String digits) {
