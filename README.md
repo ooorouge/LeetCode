@@ -11,7 +11,7 @@
 * [No14.Longest Common Prefix](https://github.com/ooorouge/LeetCode/blob/master/No%2014%20Longest%20Common%20Prefix.md)
 * [No15.3Sum](https://github.com/ooorouge/LeetCode/blob/master/No.15%203Sum.md)Medium，但是不谨慎考虑就会多算，漏算结果
 * [No17.Letter Combination Of Phone Number](https://github.com/ooorouge/LeetCode/blob/master/No.17%20Letter%20Combination%20Of%20A%20Phone%20Number.md)学习FIFO
-* [No19.Remove Nth Node From End Of List](https://github.com/ooorouge/LeetCode/blob/master/No.19%20Remove%20Nth%20Node%20From%20End%20Of%20List.md)思考一下指针的赋值，到底是在赋值什么
+* [No19.Remove Nth Node From End Of List](https://github.com/ooorouge/LeetCode/blob/master/No.19%20Remove%20Nth%20Node%20From%20End%20Of%20List.md)快慢指针，常见题型，思考一下指针的赋值，到底是在赋值什么
 * [No20.Valid Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No%2020%20Valid%20Parentheses.md)
 * [No21.Merge Two Sorted Lists](https://github.com/ooorouge/LeetCode/blob/master/No%2021%20Merge%20Two%20Sorted%20Lists.md)
 * [No26.Remove Duplicates from Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No%2026%20Remove%20Duplicates%20from%20Sorted%20Array.md)
@@ -25,4 +25,5 @@
 * [No67.Add Binary](https://github.com/ooorouge/LeetCode/blob/master/No.67%20Add%20Binary.md)
 * [No69.Sqrt(x)](https://github.com/ooorouge/LeetCode/blob/master/No.69%20Sqrt(x).md)
 * [No88. Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
+* [No101.Symmetric Tree](https://github.com/ooorouge/LeetCode/blob/master/No.101%20Symmetric%20Tree.md)二叉树递归搜索，迭代搜索，不需要递归的话用stack迭代
 * [No367.Valid Perfect Square](https://github.com/ooorouge/LeetCode/blob/master/No.367%20Valid%20Perfect%20Square.md)注意二分查找的易错点
