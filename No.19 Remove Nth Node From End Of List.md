@@ -1,5 +1,6 @@
 ### Remove Nth Node Of List
 * 主要的问题就是这个start从什么地方开始，作为一个比较好的办法就是下面代码的前三行的写法，可以绕开一些由于删除第一个节点带来的问题
+* 指针之间的赋值，赋值传递的是地址的值，虽然指针和指针实际存储的物理地址不同
 ```java
 /**
  * Definition for singly-linked list.
