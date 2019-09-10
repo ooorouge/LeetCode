@@ -14,6 +14,7 @@
 * [No19.Remove Nth Node From End Of List](https://github.com/ooorouge/LeetCode/blob/master/No.19%20Remove%20Nth%20Node%20From%20End%20Of%20List.md)快慢指针，常见题型，思考一下指针的赋值，到底是在赋值什么
 * [No20.Valid Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No%2020%20Valid%20Parentheses.md)
 * [No21.Merge Two Sorted Lists](https://github.com/ooorouge/LeetCode/blob/master/No%2021%20Merge%20Two%20Sorted%20Lists.md)
+* [No22.Generate Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No.22%20Generate%20Parentheses.md)回溯算法的一道题
 * [No26.Remove Duplicates from Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No%2026%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 * [No27.Remove Element](https://github.com/ooorouge/LeetCode/blob/master/No%2027%20Remove%20Element.md)
 * [No28.Implement strStr](https://github.com/ooorouge/LeetCode/blob/master/No%2028%20Implement%20strStr.md)
