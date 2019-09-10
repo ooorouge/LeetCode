@@ -27,4 +27,5 @@
 * [No69.Sqrt(x)](https://github.com/ooorouge/LeetCode/blob/master/No.69%20Sqrt(x).md)
 * [No88. Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
 * [No101.Symmetric Tree](https://github.com/ooorouge/LeetCode/blob/master/No.101%20Symmetric%20Tree.md)二叉树递归搜索，迭代搜索，不需要递归的话用stack迭代
+* [No125.Valid Palindrome](https://github.com/ooorouge/LeetCode/blob/master/No.125%20Valid%20Palindrome.md)和之前的一个不一样，没有用stack简单的用两个index做的，主要是Character.isLetterOrDigit()/Character.toLowerCase()
 * [No367.Valid Perfect Square](https://github.com/ooorouge/LeetCode/blob/master/No.367%20Valid%20Perfect%20Square.md)注意二分查找的易错点
