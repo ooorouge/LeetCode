@@ -20,6 +20,7 @@
 * [No27.Remove Element](https://github.com/ooorouge/LeetCode/blob/master/No%2027%20Remove%20Element.md)
 * [No28.Implement strStr](https://github.com/ooorouge/LeetCode/blob/master/No%2028%20Implement%20strStr.md)
 * [No35.Search Insert Position](https://github.com/ooorouge/LeetCode/blob/master/No%2035%20Search%20Insert%20Position.md)
+* [No38.Count and Say](https://github.com/ooorouge/LeetCode/blob/master/No.38%20Count%20and%20Say.md)
 * [No42.Trapping Rain Water](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)HARD [related NO.11](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)
 * [No53.Maximum Subarray](https://github.com/ooorouge/LeetCode/blob/master/No.53%20Maximum%20Subarray.md)
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20last%20word.md)
