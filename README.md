@@ -15,6 +15,7 @@
 * [No20.Valid Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No%2020%20Valid%20Parentheses.md)
 * [No21.Merge Two Sorted Lists](https://github.com/ooorouge/LeetCode/blob/master/No%2021%20Merge%20Two%20Sorted%20Lists.md)
 * [No22.Generate Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No.22%20Generate%20Parentheses.md)回溯算法的一道题
+* [No23.Merge k Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.23%20Merge%20k%20Sorted%20Lists.md) HARD,PriorityQueue及其comparator的重载写法
 * [No24.Swap Nodes in Pairs](https://github.com/ooorouge/LeetCode/blob/master/No.24%20Swap%20Nodes%20in%20Pairs.md)不如参见No.19
 * [No26.Remove Duplicates from Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No%2026%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 * [No27.Remove Element](https://github.com/ooorouge/LeetCode/blob/master/No%2027%20Remove%20Element.md)
