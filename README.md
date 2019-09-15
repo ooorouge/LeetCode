@@ -17,6 +17,7 @@
 * [No22.Generate Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No.22%20Generate%20Parentheses.md)回溯算法的一道题
 * [No23.Merge k Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.23%20Merge%20k%20Sorted%20Lists.md) HARD,PriorityQueue及其comparator的重载写法
 * [No24.Swap Nodes in Pairs](https://github.com/ooorouge/LeetCode/blob/master/No.24%20Swap%20Nodes%20in%20Pairs.md)不如参见No.19
+* [No25.Reverse Nodes in k-Group](https://github.com/ooorouge/LeetCode/blob/master/No.25%20Reverse%20Nodes%20in%20K-Group.md) HARD,估计是链表的经典
 * [No26.Remove Duplicates from Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No%2026%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 * [No27.Remove Element](https://github.com/ooorouge/LeetCode/blob/master/No%2027%20Remove%20Element.md)
 * [No28.Implement strStr](https://github.com/ooorouge/LeetCode/blob/master/No%2028%20Implement%20strStr.md)
