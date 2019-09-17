@@ -23,3 +23,29 @@ public:
     }
 };
 ```
+* 这个办法能起效，在discuss里看到的，但是测试了一下
+`Math.abs(Integer.MIN_VALUE)`还是一个负数，不知道为什么如果涉及到` a == Integer.MIN_VALUE `的时候怎么过的第一个判断
+```java
+class Solution {
+    public int divide(int dividend, int divisor) {
+        //System.out.println(Integer.MIN_VALUE - 1);
+        //System.out.println(Integer.MAX_VALUE);
+        if(dividend == Integer.MIN_VALUE && divisor == -1){
+            return Integer.MAX_VALUE;
+        }
+        int a = Math.abs(dividend);
+        int b = Math.abs(divisor);
+        int res = 0;
+        while(a - b >= 0){
+            
+            int x = 0;
+            while( a - (b << 1 << x) >= 0){
+                x++;
+            }
+            res += 1 << x;
+            a -= b << x;
+        }
+        return (dividend >= 0) == (divisor >= 0) ? res :-res;
+    }
+}
+```
