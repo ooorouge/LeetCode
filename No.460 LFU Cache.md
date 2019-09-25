@@ -1,7 +1,8 @@
 ### No.460 LFU Cache
 * 比较复杂的情况下先写好注释再慢慢填充
 * 用了hashmap和table，时间和空间都比较优秀的用doublelinkedlist写的
-```class LFUCache {
+```java
+class LFUCache {
     private HashMap<Integer, Integer> map;
     private HashMap<Integer, Integer> count;
     private HashMap<Integer, LinkedHashSet<Integer>> lists;
