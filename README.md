@@ -40,4 +40,5 @@
 * [No104.Maximum Depth of Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.104%20Maximum%20Depth%20of%20Binary%20Tree.md)
 * [No125.Valid Palindrome](https://github.com/ooorouge/LeetCode/blob/master/No.125%20Valid%20Palindrome.md)和之前的一个不一样，没有用stack简单的用两个index做的，主要是Character.isLetterOrDigit()/Character.toLowerCase()
 * [No367.Valid Perfect Square](https://github.com/ooorouge/LeetCode/blob/master/No.367%20Valid%20Perfect%20Square.md)注意二分查找的易错点
+* [No460.LFU Cache](https://github.com/ooorouge/LeetCode/blob/master/No.460%20LFU%20Cache.md)Very HARD, 多看多总结
 * [No636.Exclusive Time of Functions](https://github.com/ooorouge/LeetCode/blob/master/No.636%20Exclusive%20Time%20of%20Functions.md)一个stack新题型，然后注意.equals和.split()
