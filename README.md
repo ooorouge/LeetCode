@@ -26,6 +26,7 @@
 * [No33.Search in Rotated Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.33%20Search%20in%20Rotated%20Sorted%20Array.md)这个错了很多次，二分查找变种
 * [No34.Find First and Last Position of Element in Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.34%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)二分查找
 * [No35.Search Insert Position](https://github.com/ooorouge/LeetCode/blob/master/No%2035%20Search%20Insert%20Position.md)
+* [No36.Valid Suduko](https://github.com/ooorouge/LeetCode/blob/master/No.36%20Valid%20Sudoku.md)Medium抄的，没想到能这么做
 * [No38.Count and Say](https://github.com/ooorouge/LeetCode/blob/master/No.38%20Count%20and%20Say.md)
 * [No42.Trapping Rain Water](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)HARD [related NO.11](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)
 * [No46.Permutations](https://github.com/ooorouge/LeetCode/blob/master/No.46%20Permutations.md)
