@@ -31,6 +31,7 @@
 * [No38.Count and Say](https://github.com/ooorouge/LeetCode/blob/master/No.38%20Count%20and%20Say.md)
 * [No39.Combination Sum](https://github.com/ooorouge/LeetCode/blob/master/No.39%20Combination%20Sum.md)Medium,和37互补的看
 * [No40.Combination Sum II](https://github.com/ooorouge/LeetCode/blob/master/No.40%20Combination%20Sum%20II.md)和上一个的区别在于不允许重复
+* [No41.First Missing Positive](https://github.com/ooorouge/LeetCode/blob/master/No.41%20First%20Missing%20Positive.md)HARD，最主要是想让人通过这个题学到一种特定情况下的O(n)排序
 * [No42.Trapping Rain Water](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)HARD [related NO.11](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)
 * [No46.Permutations](https://github.com/ooorouge/LeetCode/blob/master/No.46%20Permutations.md)
 * [No53.Maximum Subarray](https://github.com/ooorouge/LeetCode/blob/master/No.53%20Maximum%20Subarray.md)
