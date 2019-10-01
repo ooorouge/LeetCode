@@ -35,6 +35,7 @@
 * [No42.Trapping Rain Water](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)HARD [related NO.11](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)
 * [No46.Permutations](https://github.com/ooorouge/LeetCode/blob/master/No.46%20Permutations.md)
 * [No47.Permutations II](https://github.com/ooorouge/LeetCode/blob/master/No.47%20Permutation%20ii.md)这个和I型的写法很不一样
+* [No48.Rotate Image](https://github.com/ooorouge/LeetCode/blob/master/No.48%20Rotate%20Image.md)坐标的问题可以画图的话可以减少错误率
 * [No50.Pow(x, n)](https://github.com/ooorouge/LeetCode/blob/master/No.50%20Pow(x%2Cn).md)这个里面有一个算法要学习，然后就是abs的一个坑
 * [No53.Maximum Subarray](https://github.com/ooorouge/LeetCode/blob/master/No.53%20Maximum%20Subarray.md)
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20last%20word.md)
