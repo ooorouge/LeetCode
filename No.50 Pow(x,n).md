@@ -1,5 +1,5 @@
 ### 指数函数
-* [image](https://www.dropbox.com/s/udnbzx1ihzvc8dy/Screenshot%202018-02-08%2015.37.48.png?raw=1)
+* ![image](https://www.dropbox.com/s/udnbzx1ihzvc8dy/Screenshot%202018-02-08%2015.37.48.png?raw=1)
 ```java
 public class Solution {
     public double myPow(double x, int n) {
