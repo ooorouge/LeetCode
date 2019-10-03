@@ -1,5 +1,6 @@
 ### No.43 Multiply Strings
 * 这个题还是画图分析index怎么写最好
+* 然后就是13、14行，一定要记得把已经有的东西加上去！！！！！！！
 * ![huatu](https://drscdn.500px.org/photo/130178585/m%3D2048/300d71f784f679d5e70fadda8ad7d68f)
 ```java
 class Solution {
