@@ -33,6 +33,7 @@
 * [No40.Combination Sum II](https://github.com/ooorouge/LeetCode/blob/master/No.40%20Combination%20Sum%20II.md)和上一个的区别在于不允许重复
 * [No41.First Missing Positive](https://github.com/ooorouge/LeetCode/blob/master/No.41%20First%20Missing%20Positive.md)HARD，最主要是想让人通过这个题学到一种特定情况下的O(n)排序
 * [No42.Trapping Rain Water](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)HARD [related NO.11](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)
+* [No43.Multiply Strings](https://github.com/ooorouge/LeetCode/blob/master/No.43%20Multiply%20Strings.md)MEDIUM，这个题还是很有趣的，而且有一些细节需要注意
 * [No46.Permutations](https://github.com/ooorouge/LeetCode/blob/master/No.46%20Permutations.md)
 * [No47.Permutations II](https://github.com/ooorouge/LeetCode/blob/master/No.47%20Permutation%20ii.md)这个和I型的写法很不一样
 * [No48.Rotate Image](https://github.com/ooorouge/LeetCode/blob/master/No.48%20Rotate%20Image.md)坐标的问题可以画图的话可以减少错误率
