@@ -13,3 +13,27 @@ class Solution {
     }
 }
 ```
+* 第二个写法，从后往前的BFS
+```java
+class Solution {
+    public boolean canJump(int[] nums) {
+        if (nums.length < 2) {return true;}
+        if (nums[0] == 0) {return false;}
+        if (nums[0] >= nums.length) {return true;}
+        
+        int len = nums.length - 1;
+        boolean t = true;
+        while (t && len > 0) {
+            t = false;
+            for (int i = 0; i < len; ++i) {
+                if (nums[i] + i >= len) {
+                    t = true;
+                    len = i;
+                    break;
+                }
+            }
+        }
+        return t;
+    }
+}
+```
