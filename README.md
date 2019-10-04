@@ -35,13 +35,14 @@
 * [No42.Trapping Rain Water](https://github.com/ooorouge/LeetCode/blob/master/No.42%20Trapping%20Rain%20Water.md)HARD [related NO.11](https://github.com/ooorouge/LeetCode/blob/master/No.11%20Container%20With%20Most%20Water.md)
 * [No43.Multiply Strings](https://github.com/ooorouge/LeetCode/blob/master/No.43%20Multiply%20Strings.md)MEDIUM，这个题还是很有趣的，而且有一些细节需要注意
 * [No44.Wildcard Matching](https://github.com/ooorouge/LeetCode/blob/master/No.44%20Wildcard%20Matching.md)HARD!!!这个题和[no.10](https://github.com/ooorouge/LeetCode/blob/master/No.10%20Regular%20Expression%20Match.md)一样是正则表达式的dp，首选写法，但是dp的效率不如另外一种效率高
+* [No45.Jump Game](https://github.com/ooorouge/LeetCode/blob/master/No.45%20Jump%20Game%20II.md)HARD贪心算法或者是BFS，想一下这个题为什么不是DFS，联动[No.55 Jump Game II](https://github.com/ooorouge/LeetCode/blob/master/No.55%20Jump%20Game.md)
 * [No46.Permutations](https://github.com/ooorouge/LeetCode/blob/master/No.46%20Permutations.md)
 * [No47.Permutations II](https://github.com/ooorouge/LeetCode/blob/master/No.47%20Permutation%20ii.md)这个和I型的写法很不一样
 * [No48.Rotate Image](https://github.com/ooorouge/LeetCode/blob/master/No.48%20Rotate%20Image.md)坐标的问题可以画图的话可以减少错误率
 * [No49.Group Anagrams](https://github.com/ooorouge/LeetCode/blob/master/No.49%20Group%20Anagrams.md)这个题的第二种方法非常值得多看多学习
 * [No50.Pow(x, n)](https://github.com/ooorouge/LeetCode/blob/master/No.50%20Pow(x%2Cn).md)这个里面有一个算法要学习，然后就是abs的一个坑
 * [No53.Maximum Subarray](https://github.com/ooorouge/LeetCode/blob/master/No.53%20Maximum%20Subarray.md)
-* [No55.Jump Game](https://github.com/ooorouge/LeetCode/blob/master/No.55%20Jump%20Game.md)BFS和贪心算法的题，这两个都还不是很熟悉
+* [No55.Jump Game](https://github.com/ooorouge/LeetCode/blob/master/No.55%20Jump%20Game.md)BFS和贪心算法的题，这两个都还不是很熟悉，联动[No.45 Jump Game II](https://github.com/ooorouge/LeetCode/blob/master/No.45%20Jump%20Game%20II.md)
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20Last%20Word.md)
 * [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
 * [No67.Add Binary](https://github.com/ooorouge/LeetCode/blob/master/No.67%20Add%20Binary.md)
