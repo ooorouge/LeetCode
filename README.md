@@ -41,8 +41,8 @@
 * [No49.Group Anagrams](https://github.com/ooorouge/LeetCode/blob/master/No.49%20Group%20Anagrams.md)这个题的第二种方法非常值得多看多学习
 * [No50.Pow(x, n)](https://github.com/ooorouge/LeetCode/blob/master/No.50%20Pow(x%2Cn).md)这个里面有一个算法要学习，然后就是abs的一个坑
 * [No53.Maximum Subarray](https://github.com/ooorouge/LeetCode/blob/master/No.53%20Maximum%20Subarray.md)
+* [No55.Jump Game](https://github.com/ooorouge/LeetCode/blob/master/No.55%20Jump%20Game.md)BFS和贪心算法的题，这两个都还不是很熟悉
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20Last%20Word.md)
-* [No.59Jump Game](https://github.com/ooorouge/LeetCode/blob/master/No.55%20Jump%20Game.md)BFS和贪心算法的题，这两个都还不是很熟悉
 * [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
 * [No67.Add Binary](https://github.com/ooorouge/LeetCode/blob/master/No.67%20Add%20Binary.md)
 * [No69.Sqrt(x)](https://github.com/ooorouge/LeetCode/blob/master/No.69%20Sqrt(x).md)
