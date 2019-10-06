@@ -42,6 +42,7 @@
 * [No49.Group Anagrams](https://github.com/ooorouge/LeetCode/blob/master/No.49%20Group%20Anagrams.md)这个题的第二种方法非常值得多看多学习
 * [No50.Pow(x, n)](https://github.com/ooorouge/LeetCode/blob/master/No.50%20Pow(x%2Cn).md)这个里面有一个算法要学习，然后就是abs的一个坑
 * [No53.Maximum Subarray](https://github.com/ooorouge/LeetCode/blob/master/No.53%20Maximum%20Subarray.md)
+* [No54.Spiral Matrix](https://github.com/ooorouge/LeetCode/blob/master/No.54%20Spiral%20Matrix.md)这个题还是很有意思，螺旋取二维数组中的所有值
 * [No55.Jump Game](https://github.com/ooorouge/LeetCode/blob/master/No.55%20Jump%20Game.md)BFS和贪心算法的题，这两个都还不是很熟悉，联动[No.45 Jump Game II](https://github.com/ooorouge/LeetCode/blob/master/No.45%20Jump%20Game%20II.md)
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20Last%20Word.md)
 * [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
