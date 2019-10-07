@@ -45,6 +45,7 @@
 * [No54.Spiral Matrix](https://github.com/ooorouge/LeetCode/blob/master/No.54%20Spiral%20Matrix.md)这个题还是很有意思，螺旋取二维数组中的所有值
 * [No55.Jump Game](https://github.com/ooorouge/LeetCode/blob/master/No.55%20Jump%20Game.md)BFS和贪心算法的题，这两个都还不是很熟悉，联动[No.45 Jump Game II](https://github.com/ooorouge/LeetCode/blob/master/No.45%20Jump%20Game%20II.md)
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20Last%20Word.md)
+* [No60.Permutation Sequences](https://github.com/ooorouge/LeetCode/blob/master/No.60%20Permutation%20sequences.md)比较有趣的medium，dfs会TLE
 * [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
 * [No67.Add Binary](https://github.com/ooorouge/LeetCode/blob/master/No.67%20Add%20Binary.md)
 * [No69.Sqrt(x)](https://github.com/ooorouge/LeetCode/blob/master/No.69%20Sqrt(x).md)
