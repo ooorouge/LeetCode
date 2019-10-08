@@ -63,5 +63,6 @@
 * [No367.Valid Perfect Square](https://github.com/ooorouge/LeetCode/blob/master/No.367%20Valid%20Perfect%20Square.md)注意二分查找的易错点
 * [No460.LFU Cache](https://github.com/ooorouge/LeetCode/blob/master/No.460%20LFU%20Cache.md)Very HARD, 多看多总结
 * [No636.Exclusive Time of Functions](https://github.com/ooorouge/LeetCode/blob/master/No.636%20Exclusive%20Time%20of%20Functions.md)一个stack新题型，然后注意.equals和.split()
+* [No973.K Closest Points to Origin](https://github.com/ooorouge/LeetCode/blob/master/No.973%20K%20Closest%20Points%20to%20Origin.md)AMAZON OA！！！多看几遍
 * [No1110.Delete Nodes And Return Forests](https://github.com/ooorouge/LeetCode/blob/master/No.1110%20Delete%20Nodes%20And%20Return%20Forests.md)新题，DFS，不会做，medium，二叉树
 * [No1114.Print in Order](https://github.com/ooorouge/LeetCode/blob/master/No.1114%20Print%20in%20Order.md)和线程相相关。。
