@@ -47,6 +47,8 @@
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20Last%20Word.md)
 * [No60.Permutation Sequences](https://github.com/ooorouge/LeetCode/blob/master/No.60%20Permutation%20sequences.md)比较有趣的medium，dfs会TLE
 * [No62.Unique Paths](https://github.com/ooorouge/LeetCode/blob/master/No.62%20Unique%20Path.md)dp问题，也可以直接排列组合
+* [No63.Unique Paths II](https://github.com/ooorouge/LeetCode/blob/master/No.63%20Unique%20Path%20II.md)DP
+* [No64.Minimum Path Sum](https://github.com/ooorouge/LeetCode/blob/master/No.64%20Minimum%20Path%20Sum.md)DP
 * [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
 * [No67.Add Binary](https://github.com/ooorouge/LeetCode/blob/master/No.67%20Add%20Binary.md)
 * [No69.Sqrt(x)](https://github.com/ooorouge/LeetCode/blob/master/No.69%20Sqrt(x).md)
