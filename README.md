@@ -46,12 +46,14 @@
 * [No55.Jump Game](https://github.com/ooorouge/LeetCode/blob/master/No.55%20Jump%20Game.md)BFS和贪心算法的题，这两个都还不是很熟悉，联动[No.45 Jump Game II](https://github.com/ooorouge/LeetCode/blob/master/No.45%20Jump%20Game%20II.md)
 * [No58.Length Of Last Word](https://github.com/ooorouge/LeetCode/blob/master/No.58%20Length%20of%20Last%20Word.md)
 * [No60.Permutation Sequences](https://github.com/ooorouge/LeetCode/blob/master/No.60%20Permutation%20sequences.md)比较有趣的medium，dfs会TLE
+* [No61.Rotate Lists](https://github.com/ooorouge/LeetCode/blob/master/No.61%20Rotate%20List.md)链表题，链表题多看
 * [No62.Unique Paths](https://github.com/ooorouge/LeetCode/blob/master/No.62%20Unique%20Path.md)dp问题，也可以直接排列组合
 * [No63.Unique Paths II](https://github.com/ooorouge/LeetCode/blob/master/No.63%20Unique%20Path%20II.md)DP
 * [No64.Minimum Path Sum](https://github.com/ooorouge/LeetCode/blob/master/No.64%20Minimum%20Path%20Sum.md)DP
 * [No66.Plus One](https://github.com/ooorouge/LeetCode/blob/master/No.66%20Plus%20One.md)
 * [No67.Add Binary](https://github.com/ooorouge/LeetCode/blob/master/No.67%20Add%20Binary.md)
 * [No69.Sqrt(x)](https://github.com/ooorouge/LeetCode/blob/master/No.69%20Sqrt(x).md)
+* [No71.Simplify Paths](https://github.com/ooorouge/LeetCode/blob/master/No.71%20Simplify%20Path.md)用stack，然后str比较值不要直接等于，用equals
 * [No88.Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
 * [No91.Decode Ways](https://github.com/ooorouge/LeetCode/blob/master/No.91%20Decode%20Ways.md)DP,在interview里看到过,用另外的结构储存已经算出来的dp[i]可以节约很多时间
 * [No101.Symmetric Tree](https://github.com/ooorouge/LeetCode/blob/master/No.101%20Symmetric%20Tree.md)二叉树递归搜索，迭代搜索，不需要递归的话用stack迭代
