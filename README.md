@@ -54,6 +54,7 @@
 * [No67.Add Binary](https://github.com/ooorouge/LeetCode/blob/master/No.67%20Add%20Binary.md)
 * [No69.Sqrt(x)](https://github.com/ooorouge/LeetCode/blob/master/No.69%20Sqrt(x).md)
 * [No71.Simplify Paths](https://github.com/ooorouge/LeetCode/blob/master/No.71%20Simplify%20Path.md)用stack，然后str比较值不要直接等于，用equals
+* [No73.Set Zeros in Matrix](https://github.com/ooorouge/LeetCode/blob/master/No.73%20Set%20Matrix%20Zeros.md)in space题
 * [No74.Search a 2D matrix](https://github.com/ooorouge/LeetCode/blob/master/No.74%20Search%20a%202D%20matrix.md)也在AMAZON OA里出现过
 * [No88.Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
 * [No91.Decode Ways](https://github.com/ooorouge/LeetCode/blob/master/No.91%20Decode%20Ways.md)DP,在interview里看到过,用另外的结构储存已经算出来的dp[i]可以节约很多时间
@@ -72,3 +73,5 @@
 * [No992.Subarray with K Different Integers](https://github.com/ooorouge/LeetCode/blob/master/No.992%20Subarrays%20with%20K%20Different%20Integers.md)AMAZON OA K Different 复制字串进工具函数验证
 * [No1110.Delete Nodes And Return Forests](https://github.com/ooorouge/LeetCode/blob/master/No.1110%20Delete%20Nodes%20And%20Return%20Forests.md)新题，DFS，不会做，medium，二叉树
 * [No1114.Print in Order](https://github.com/ooorouge/LeetCode/blob/master/No.1114%20Print%20in%20Order.md)和线程相相关。。
+* [Copy Random Pointers](https://github.com/ooorouge/LeetCode/blob/master/No.%20Copy%20With%20Random%20Pointers.md)深拷贝，OA
+* [No1192.Critical Connections in a Network](https://github.com/ooorouge/LeetCode/blob/master/No.1192%20Critical%20Connections%20in%20a%20Network.md)找没有闭环的图里的边，并且输出，OA
