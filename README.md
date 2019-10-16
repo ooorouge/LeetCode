@@ -56,6 +56,7 @@
 * [No71.Simplify Paths](https://github.com/ooorouge/LeetCode/blob/master/No.71%20Simplify%20Path.md)用stack，然后str比较值不要直接等于，用equals
 * [No73.Set Zeros in Matrix](https://github.com/ooorouge/LeetCode/blob/master/No.73%20Set%20Matrix%20Zeros.md)in space题
 * [No74.Search a 2D matrix](https://github.com/ooorouge/LeetCode/blob/master/No.74%20Search%20a%202D%20matrix.md)也在AMAZON OA里出现过
+* [No86.Partition List](https://github.com/ooorouge/LeetCode/blob/master/No.86%20Partition%20List.md)链表题
 * [No88.Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
 * [No91.Decode Ways](https://github.com/ooorouge/LeetCode/blob/master/No.91%20Decode%20Ways.md)DP,在interview里看到过,用另外的结构储存已经算出来的dp[i]可以节约很多时间
 * [No101.Symmetric Tree](https://github.com/ooorouge/LeetCode/blob/master/No.101%20Symmetric%20Tree.md)二叉树递归搜索，迭代搜索，不需要递归的话用stack迭代
