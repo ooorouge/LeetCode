@@ -58,6 +58,7 @@
 * [No74.Search a 2D matrix](https://github.com/ooorouge/LeetCode/blob/master/No.74%20Search%20a%202D%20matrix.md)也在AMAZON OA里出现过
 * [No86.Partition List](https://github.com/ooorouge/LeetCode/blob/master/No.86%20Partition%20List.md)链表题
 * [No88.Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
+* [No89.Gray code](https://github.com/ooorouge/LeetCode/blob/master/No.89%20Gray%20Code.md)格雷码
 * [No91.Decode Ways](https://github.com/ooorouge/LeetCode/blob/master/No.91%20Decode%20Ways.md)DP,在interview里看到过,用另外的结构储存已经算出来的dp[i]可以节约很多时间
 * [No101.Symmetric Tree](https://github.com/ooorouge/LeetCode/blob/master/No.101%20Symmetric%20Tree.md)二叉树递归搜索，迭代搜索，不需要递归的话用stack迭代
 * [No102.Binary Tree Order Traversal](https://github.com/ooorouge/LeetCode/blob/master/No.102%20Binary%20Tree%20Level%20Order%20Traversal.md)二叉树一层一层的遍历
