@@ -58,6 +58,7 @@
 * [No74.Search a 2D matrix](https://github.com/ooorouge/LeetCode/blob/master/No.74%20Search%20a%202D%20matrix.md)也在AMAZON OA里出现过
 * [No75.Sort Colors](https://github.com/ooorouge/LeetCode/blob/master/No.75%20Sort%20Colors.md)审题导致的出错，很不应该
 * [No77.Combinations](https://github.com/ooorouge/LeetCode/blob/master/No.77%20Combinations.md)注意便利的时候很多情况根本不需要，n-k+1
+* [No79.Word Search](https://github.com/ooorouge/LeetCode/blob/master/No.79%20Word%20Search.md)好像出现在OA或者VO里过，在2d矩阵里找东西，不是最短路，DFS
 * [No86.Partition List](https://github.com/ooorouge/LeetCode/blob/master/No.86%20Partition%20List.md)链表题
 * [No88.Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
 * [No89.Gray code](https://github.com/ooorouge/LeetCode/blob/master/No.89%20Gray%20Code.md)格雷码
