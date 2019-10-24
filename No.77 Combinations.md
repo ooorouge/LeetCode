@@ -16,7 +16,8 @@ class Solution {
             ans.add(new ArrayList<>(subans));
             return ;
         }
-        for (int i = start; i <= n; ++i) {
+        // for (int i = start; i <= n; ++i) 如果是这一句，那么运行时间会从2ms变到28ms，很重要
+        for (int i = start; i <= n-k+1; ++i) {
             subans.add(i);
             dfs(ans, subans, n, k-1, i+1);
             subans.remove(subans.size()-1);
