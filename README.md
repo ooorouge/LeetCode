@@ -23,7 +23,7 @@
 * [No28.Implement strStr](https://github.com/ooorouge/LeetCode/blob/master/No%2028%20Implement%20strStr.md)
 * [No29.Divide Two Integer](https://github.com/ooorouge/LeetCode/blob/master/No.29%20Divide%20Two%20Integer.md)JAVA没有uint,感觉这个答案有点问题，但是能跑，有机会问一下其他人
 * [No32.Longest Valid Parentheses](https://github.com/ooorouge/LeetCode/blob/master/No.32%20Longest%20Valid%20Parentheses.md)HARD,可以用stack，学习DP写法
-* [No33.Search in Rotated Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.33%20Search%20in%20Rotated%20Sorted%20Array.md)这个错了很多次，二分查找变种
+* [No33.Search in Rotated Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.33%20Search%20in%20Rotated%20Sorted%20Array.md)这个错了很多次，二分查找变种[No81.Search in Roatated Sorted Array II](https://github.com/ooorouge/LeetCode/blob/master/No.81%20Search%20in%20Rotated%20Sorted%20Array%20II.md)
 * [No34.Find First and Last Position of Element in Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.34%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)二分查找
 * [No35.Search Insert Position](https://github.com/ooorouge/LeetCode/blob/master/No%2035%20Search%20Insert%20Position.md)
 * [No36.Valid Suduko](https://github.com/ooorouge/LeetCode/blob/master/No.36%20Valid%20Sudoku.md)Medium抄的，没想到能这么做
@@ -60,6 +60,7 @@
 * [No77.Combinations](https://github.com/ooorouge/LeetCode/blob/master/No.77%20Combinations.md)注意便利的时候很多情况根本不需要，n-k+1
 * [No78.Subsets](https://github.com/ooorouge/LeetCode/blob/master/No.78%20Subsets.md)
 * [No79.Word Search](https://github.com/ooorouge/LeetCode/blob/master/No.79%20Word%20Search.md)好像出现在OA或者VO里过，在2d矩阵里找东西，不是最短路，DFS
+* [No81.Search in Roatated Sorted Array II](https://github.com/ooorouge/LeetCode/blob/master/No.81%20Search%20in%20Rotated%20Sorted%20Array%20II.md)和这个[No33.Search in Rotated Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.33%20Search%20in%20Rotated%20Sorted%20Array.md)而且这个错了很多次
 * [No86.Partition List](https://github.com/ooorouge/LeetCode/blob/master/No.86%20Partition%20List.md)链表题
 * [No88.Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
 * [No89.Gray code](https://github.com/ooorouge/LeetCode/blob/master/No.89%20Gray%20Code.md)格雷码
