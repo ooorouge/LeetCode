@@ -77,6 +77,7 @@
 * [No337.House Robber III](https://github.com/ooorouge/LeetCode/blob/master/No.337%20House%20Robber%20III.md)突然感觉这个题的dfs写法很具有普遍性
 * [No367.Valid Perfect Square](https://github.com/ooorouge/LeetCode/blob/master/No.367%20Valid%20Perfect%20Square.md)注意二分查找的易错点
 * [No460.LFU Cache](https://github.com/ooorouge/LeetCode/blob/master/No.460%20LFU%20Cache.md)Very HARD, 多看多总结
+* [No611.Valid Triangle Number](https://github.com/ooorouge/LeetCode/blob/master/No.611%20Valid%20Triangle%20Number.md)这个问题其实是three sum的变种，注意总结一下自己做的题
 * [No636.Exclusive Time of Functions](https://github.com/ooorouge/LeetCode/blob/master/No.636%20Exclusive%20Time%20of%20Functions.md)一个stack新题型，然后注意.equals和.split()
 * [No763.Partition Labels](https://github.com/ooorouge/LeetCode/blob/master/No.763%20Partition%20Labels.md)有可能是OA，划分字串
 * [No937.Reorder Data in Log Files](https://github.com/ooorouge/LeetCode/blob/master/No.937%20Reorder%20Data%20in%20Log%20Files.md)AMAZON OA 按照名字排序
