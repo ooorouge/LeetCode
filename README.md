@@ -65,6 +65,7 @@
 * [No88.Merge Sorted Array](https://github.com/ooorouge/LeetCode/blob/master/No.88%20Merge%20Sorted%20Array.md)注意其他语言数组的问题
 * [No89.Gray code](https://github.com/ooorouge/LeetCode/blob/master/No.89%20Gray%20Code.md)格雷码
 * [No91.Decode Ways](https://github.com/ooorouge/LeetCode/blob/master/No.91%20Decode%20Ways.md)DP,在interview里看到过,用另外的结构储存已经算出来的dp[i]可以节约很多时间
+* [No92.Reverse Linked List II](https://github.com/ooorouge/LeetCode/blob/master/No.92%20Reverse%20Linked%20List%20II.md)写错了两次，反转链表
 * [No94No144 Tree Traversals](https://github.com/ooorouge/LeetCode/blob/master/No.94%20No.144%20Inorder%20and%20Preorder%20Binary%20Tree%20Traversal.md)树的遍历
 * [No101.Symmetric Tree](https://github.com/ooorouge/LeetCode/blob/master/No.101%20Symmetric%20Tree.md)二叉树递归搜索，迭代搜索，不需要递归的话用stack迭代
 * [No102.Binary Tree Order Traversal](https://github.com/ooorouge/LeetCode/blob/master/No.102%20Binary%20Tree%20Level%20Order%20Traversal.md)二叉树一层一层的遍历
