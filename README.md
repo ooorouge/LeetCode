@@ -72,6 +72,7 @@
 * [No103.Binary Tree Zigzag Level Traversal](https://github.com/ooorouge/LeetCode/blob/master/No.103%20Binary%20Tree%20Zigzag%20Level%20Order.md)差不多
 * [No104.Maximum Depth of Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.104%20Maximum%20Depth%20of%20Binary%20Tree.md)
 * [No108.Convert Sorted Array to Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.108%20Convert%20Sorted%20Array%20to%20Binary%20Search.md)索引问题，不然容易stackoverflow
+* [No110.Balanced Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.110%20Balanced%20Binary%20Tree.md)每个子树也必须是平衡的
 * [No114.Flatten Binary Tree to Linked List](https://github.com/ooorouge/LeetCode/blob/master/No.114%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)in-place所以比较麻烦
 * [No116.Populating Next Right Pointers](https://github.com/ooorouge/LeetCode/blob/master/No.116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)给树的每个结点安排个next，有一句核心语句
 * [No120.Triangle](https://github.com/ooorouge/LeetCode/blob/master/No.120%20Triangle.md)DP!!!
