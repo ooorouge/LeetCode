@@ -71,6 +71,7 @@
 * [No102.Binary Tree Order Traversal](https://github.com/ooorouge/LeetCode/blob/master/No.102%20Binary%20Tree%20Level%20Order%20Traversal.md)二叉树一层一层的遍历
 * [No103.Binary Tree Zigzag Level Traversal](https://github.com/ooorouge/LeetCode/blob/master/No.103%20Binary%20Tree%20Zigzag%20Level%20Order.md)差不多
 * [No104.Maximum Depth of Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.104%20Maximum%20Depth%20of%20Binary%20Tree.md)
+* [No114.Flatten Binary Tree to Linked List](https://github.com/ooorouge/LeetCode/blob/master/No.114%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)in-place所以比较麻烦
 * [No116.Populating Next Right Pointers](https://github.com/ooorouge/LeetCode/blob/master/No.116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)给树的每个结点安排个next，有一句核心语句
 * [No120.Triangle](https://github.com/ooorouge/LeetCode/blob/master/No.120%20Triangle.md)DP!!!
 * [No125.Valid Palindrome](https://github.com/ooorouge/LeetCode/blob/master/No.125%20Valid%20Palindrome.md)和之前的一个不一样，没有用stack简单的用两个index做的，主要是Character.isLetterOrDigit()/Character.toLowerCase()
