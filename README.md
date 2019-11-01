@@ -71,6 +71,7 @@
 * [No102.Binary Tree Order Traversal](https://github.com/ooorouge/LeetCode/blob/master/No.102%20Binary%20Tree%20Level%20Order%20Traversal.md)二叉树一层一层的遍历
 * [No103.Binary Tree Zigzag Level Traversal](https://github.com/ooorouge/LeetCode/blob/master/No.103%20Binary%20Tree%20Zigzag%20Level%20Order.md)差不多
 * [No104.Maximum Depth of Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.104%20Maximum%20Depth%20of%20Binary%20Tree.md)
+* [No105.Construct Binary Tree From Preorder and Inorder Traversal](https://github.com/ooorouge/LeetCode/blob/master/No.105%20Construct%20Binary%20Tree%20From%20Preorder%20and%20Inorder%20Traversal.md)构建二叉树从pre和in遍历
 * [No108.Convert Sorted Array to Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.108%20Convert%20Sorted%20Array%20to%20Binary%20Search.md)索引问题，不然容易stackoverflow
 * [No110.Balanced Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.110%20Balanced%20Binary%20Tree.md)每个子树也必须是平衡的
 * [No114.Flatten Binary Tree to Linked List](https://github.com/ooorouge/LeetCode/blob/master/No.114%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)in-place所以比较麻烦
