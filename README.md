@@ -80,6 +80,8 @@
 * [No118.Pascal's Triangle](https://github.com/ooorouge/LeetCode/blob/master/No.118%20Pascal's%20Triangle.md)杨辉三角
 * [No120.Triangle](https://github.com/ooorouge/LeetCode/blob/master/No.120%20Triangle.md)DP!!!
 * [No125.Valid Palindrome](https://github.com/ooorouge/LeetCode/blob/master/No.125%20Valid%20Palindrome.md)和之前的一个不一样，没有用stack简单的用两个index做的，主要是Character.isLetterOrDigit()/Character.toLowerCase()
+* [No121.Best Time to Buy and Sell Stock](https://github.com/ooorouge/LeetCode/blob/master/No.121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+* [No127.Word Ladder](https://github.com/ooorouge/LeetCode/blob/master/No.127%20Word%20Ladder.md)amazon oa出现过BFS
 * [No198.House Robber](https://github.com/ooorouge/LeetCode/blob/master/No.198%20House%20Robber.md)DP!!!!
 * [No213.House Robber II](https://github.com/ooorouge/LeetCode/blob/master/No.213%20House%20Robber%20II.md)DP!!!!
 * [No221.Maximal Square](https://github.com/ooorouge/LeetCode/blob/master/No.221%20Maximal%20Square.md)又是一个没意识到该用dp的题，多看
