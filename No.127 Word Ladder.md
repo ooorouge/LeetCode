@@ -1,4 +1,4 @@
-### bfs,自己写的写法时间复杂度非常高。。。
+### bfs,第二个写法时间复杂度非常高。。。
 ```java
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
