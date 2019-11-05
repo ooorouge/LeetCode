@@ -78,8 +78,8 @@
 * [No114.Flatten Binary Tree to Linked List](https://github.com/ooorouge/LeetCode/blob/master/No.114%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)in-place所以比较麻烦
 * [No116.Populating Next Right Pointers](https://github.com/ooorouge/LeetCode/blob/master/No.116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)给树的每个结点安排个next，有一句核心语句
 * [No118.Pascal's Triangle](https://github.com/ooorouge/LeetCode/blob/master/No.118%20Pascal's%20Triangle.md)杨辉三角
-* [No121.Best Time to Buy and Sell Stock](https://github.com/ooorouge/LeetCode/blob/master/No.121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 * [No120.Triangle](https://github.com/ooorouge/LeetCode/blob/master/No.120%20Triangle.md)DP!!!
+* [No121.Best Time to Buy and Sell Stock](https://github.com/ooorouge/LeetCode/blob/master/No.121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 * [No125.Valid Palindrome](https://github.com/ooorouge/LeetCode/blob/master/No.125%20Valid%20Palindrome.md)和之前的一个不一样，没有用stack简单的用两个index做的，主要是Character.isLetterOrDigit()/Character.toLowerCase()
 * [No126.Word Ladder II](https://github.com/ooorouge/LeetCode/blob/master/No.126%20Word%20Ladder%20II.md)amazon原版oa
 * [No127.Word Ladder](https://github.com/ooorouge/LeetCode/blob/master/No.127%20Word%20Ladder.md)amazon oa出现过BFS
