@@ -80,14 +80,19 @@
 * [No118.Pascal's Triangle](https://github.com/ooorouge/LeetCode/blob/master/No.118%20Pascal's%20Triangle.md)杨辉三角
 * [No120.Triangle](https://github.com/ooorouge/LeetCode/blob/master/No.120%20Triangle.md)DP!!!
 * [No121.Best Time to Buy and Sell Stock](https://github.com/ooorouge/LeetCode/blob/master/No.121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+* [No.122 Best Time to Buy and Sell Stock II](https://github.com/ooorouge/LeetCode/blob/master/No.122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 * [No125.Valid Palindrome](https://github.com/ooorouge/LeetCode/blob/master/No.125%20Valid%20Palindrome.md)和之前的一个不一样，没有用stack简单的用两个index做的，主要是Character.isLetterOrDigit()/Character.toLowerCase()
 * [No126.Word Ladder II](https://github.com/ooorouge/LeetCode/blob/master/No.126%20Word%20Ladder%20II.md)amazon原版oa
 * [No127.Word Ladder](https://github.com/ooorouge/LeetCode/blob/master/No.127%20Word%20Ladder.md)amazon oa出现过BFS
+* [No128.Longest Consecutive Sequence](https://github.com/ooorouge/LeetCode/blob/master/No.128%20Longest%20Consecutive%20Sequence.md)思路非常好，看一下
+* [No139.Word Break](https://github.com/ooorouge/LeetCode/blob/master/No.139%20Word%20Break.md)有点难。。而且算是dp
 * [No198.House Robber](https://github.com/ooorouge/LeetCode/blob/master/No.198%20House%20Robber.md)DP!!!!
 * [No213.House Robber II](https://github.com/ooorouge/LeetCode/blob/master/No.213%20House%20Robber%20II.md)DP!!!!
 * [No221.Maximal Square](https://github.com/ooorouge/LeetCode/blob/master/No.221%20Maximal%20Square.md)又是一个没意识到该用dp的题，多看
+* [No.236 Lowest Common Ancestor of a Binary Tree](https://github.com/ooorouge/LeetCode/blob/master/No.236%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)BST和BT的区别，然后非递归的写法
 * [No337.House Robber III](https://github.com/ooorouge/LeetCode/blob/master/No.337%20House%20Robber%20III.md)突然感觉这个题的dfs写法很具有普遍性
 * [No367.Valid Perfect Square](https://github.com/ooorouge/LeetCode/blob/master/No.367%20Valid%20Perfect%20Square.md)注意二分查找的易错点
+* [No398.Random Pick Index](https://github.com/ooorouge/LeetCode/blob/master/No.398%20Random%20Pick%20Index.md)OOD
 * [No460.LFU Cache](https://github.com/ooorouge/LeetCode/blob/master/No.460%20LFU%20Cache.md)Very HARD, 多看多总结
 * [No611.Valid Triangle Number](https://github.com/ooorouge/LeetCode/blob/master/No.611%20Valid%20Triangle%20Number.md)这个问题其实是three sum的变种，注意总结一下自己做的题
 * [No636.Exclusive Time of Functions](https://github.com/ooorouge/LeetCode/blob/master/No.636%20Exclusive%20Time%20of%20Functions.md)一个stack新题型，然后注意.equals和.split()
@@ -95,6 +100,7 @@
 * [No937.Reorder Data in Log Files](https://github.com/ooorouge/LeetCode/blob/master/No.937%20Reorder%20Data%20in%20Log%20Files.md)AMAZON OA 按照名字排序
 * [No973.K Closest Points to Origin](https://github.com/ooorouge/LeetCode/blob/master/No.973%20K%20Closest%20Points%20to%20Origin.md)AMAZON OA K closest 重载最大堆
 * [No992.Subarray with K Different Integers](https://github.com/ooorouge/LeetCode/blob/master/No.992%20Subarrays%20with%20K%20Different%20Integers.md)AMAZON OA K Different 复制字串进工具函数验证
+* [No1002.Find Common Characters](https://github.com/ooorouge/LeetCode/blob/master/No.1002%20Find%20Common%20Characters.md)有更好的办法
 * [No1108. Construct Binary Search Tree](https://github.com/ooorouge/LeetCode/blob/master/No.1008%20Construct%20Binary%20Search%20Tree.md)用子函数递归的创建
 * [No1110.Delete Nodes And Return Forests](https://github.com/ooorouge/LeetCode/blob/master/No.1110%20Delete%20Nodes%20And%20Return%20Forests.md)新题，DFS，不会做，medium，二叉树
 * [No1114.Print in Order](https://github.com/ooorouge/LeetCode/blob/master/No.1114%20Print%20in%20Order.md)和线程相相关。。
